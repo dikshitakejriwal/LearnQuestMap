@@ -11,4 +11,5 @@ Try it yourself and Enjoy Learning!
 
 
 
-<img width="400" alt="Screenshot 2024-02-09 at 3 34 58 PM" src="https://github.com/dikshitakejriwal/LearnQuest-Map/assets/62951992/a8a893be-bbbd-4777-9c52-bc6d5efe470f">
+
+<img width="387" alt="Screenshot 2024-02-09 at 3 34 58 PM" src="https://github.com/dikshitakejriwal/LearnQuestMap/assets/62951992/effea9c3-1592-4a73-844f-e012c682908c">
